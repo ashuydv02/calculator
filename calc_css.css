@@ -1,0 +1,46 @@
+body{
+    height: 100%;
+    background: #FAF9F6;
+}
+h1{
+    font-size: 35px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+input[type=numbers]{
+    width: 97%;
+    height: 14%;
+    font-size: 30px;
+    border: solid black;
+    border-radius: 5px;
+}
+
+button{
+    height: 3rem;
+    width: 23.5%;
+    margin-bottom:2px;
+    font-size: 20px;
+    font-weight: bolder;
+    border: solid black;
+    border-radius: 5px;	
+}
+#equal{
+    font-size: 20px;
+    font-weight: bolder;
+    color: white;
+    background: blue;
+    border: solid blue;	
+}
+.calc{
+    margin:auto;
+    position: relative;
+    top:20px;
+    height:500px;
+    width: 300px;
+    padding: 20px;
+    border-radius: 5px;
+    background:whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
